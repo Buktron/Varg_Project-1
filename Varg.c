@@ -1,6 +1,3 @@
-// Jabari Long
-// NID: JA257871
-// COP3502 MWF 10:30am - 11:45am Spring 2017
 
 // The '../' in the include statment for 'Varg.h' means to include some 
 // file name Varg.h in the parent directory of the folder so that I can 
